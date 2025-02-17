@@ -1,7 +1,7 @@
 module.exports = {
 	apps: [
 		{
-			name: "Stopify",
+			name: "JamSpace",
 			script: ".output/server/index.mjs",
 			env: {
 				NODE_ENV: "production",
